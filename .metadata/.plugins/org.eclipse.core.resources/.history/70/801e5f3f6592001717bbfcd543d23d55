@@ -28,11 +28,8 @@ public class Mapa {
 	public void mostrarMapa(){
 		System.out.println(mapaCorrelaciones);
 	}
-	public HashMap<String, Float> getMapaCorrelaciones() {
-		return mapaCorrelaciones;
+	private void almacenarPhi(String string, double d) {
+		// TODO Auto-generated method stub
+		
 	}
-	public void setMapaCorrelaciones(HashMap<String, Float> mapaCorrelaciones) {
-		this.mapaCorrelaciones = mapaCorrelaciones;
-	}
-	
 }

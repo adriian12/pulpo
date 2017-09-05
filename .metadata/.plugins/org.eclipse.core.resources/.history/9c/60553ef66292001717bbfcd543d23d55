@@ -1,0 +1,18 @@
+package org.foobarspam.pulpo;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Mapa {
+
+	public Mapa() {
+	}
+	
+	mapaCorrelaciones<Integer phi, String eventos> datos = new HashMap<Integer, String>();
+	
+	
+	public void almacenarPhi(){
+		
+	}
+	
+}

@@ -28,11 +28,5 @@ public class Mapa {
 	public void mostrarMapa(){
 		System.out.println(mapaCorrelaciones);
 	}
-	public HashMap<String, Float> getMapaCorrelaciones() {
-		return mapaCorrelaciones;
-	}
-	public void setMapaCorrelaciones(HashMap<String, Float> mapaCorrelaciones) {
-		this.mapaCorrelaciones = mapaCorrelaciones;
-	}
 	
 }
