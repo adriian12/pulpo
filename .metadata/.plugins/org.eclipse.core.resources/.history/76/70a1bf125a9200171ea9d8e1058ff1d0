@@ -1,0 +1,10 @@
+package org.foobarspam.pulpo;
+
+public class Correlacion {
+
+	public Correlacion() {
+		int array[];
+		array = new int[76,9,4,1];
+	}
+	
+}

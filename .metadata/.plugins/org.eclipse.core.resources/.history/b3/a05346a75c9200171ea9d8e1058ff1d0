@@ -1,0 +1,14 @@
+package org.foobarspam.test;
+
+import org.junit.Test;
+
+public class CorrelacionTest {
+double total = 0.068599434;
+	@Test
+	public void phiTotalTest() {
+		int phi[]={76,9,4,1};
+		return total;
+		
+	}
+
+}

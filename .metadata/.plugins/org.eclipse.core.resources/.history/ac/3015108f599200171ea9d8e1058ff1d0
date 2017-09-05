@@ -1,0 +1,9 @@
+package org.foobarspam.pulpo;
+
+public class Correlacion {
+
+	public Correlacion() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,8 @@
+package org.foobarspam.pulpo;
+
+public class Correlacion {
+
+	public Correlacion() {
+	}
+
+}

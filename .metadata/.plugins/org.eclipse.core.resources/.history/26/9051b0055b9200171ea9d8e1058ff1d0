@@ -1,0 +1,10 @@
+package org.foobarspam.pulpo;
+
+public class Correlacion {
+
+	public Correlacion() {
+	}
+	//Creamos una tabla con los 4 numeros
+			Object tabla[][] = {{76,9,4,1},};
+			phi = tabla;
+}
