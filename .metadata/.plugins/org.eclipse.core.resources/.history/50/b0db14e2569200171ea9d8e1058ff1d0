@@ -1,0 +1,16 @@
+package org.foobarspam.test;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class DiarioTest {
+
+	@Test
+	public void test() {
+		String diario[]={"trabajar", "tocar un árbol", "percebes", "correr", "television"};
+		Boolean pulpo = false;
+		System.out.println(diario);
+	}
+
+}

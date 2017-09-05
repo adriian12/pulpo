@@ -3,20 +3,24 @@ import java.util.ArrayList;
 
 public abstract class Diario {
 
+
 	public Diario() {
+
+	}
+	
+	public void incluirRegistro(String [] eventos){
         //Creamos un array de objetos de tipo resgistro
         Registro arrayObjetos[]=new Registro[5];
  
-        //Creamos objetos en cada posicion
-        arrayObjetos[0]=new Registro("andar");
-        
+		//Creamos un objeto en la primera posición
+        arrayObjetos[0]=new eventos["correr"];
         //Recorrer el array 
-        for (int i=0;i<arrayObjetos.length;i++){
+        for (int i=0; i<arrayObjetos.length; i++){
             System.out.println(arrayObjetos[i]);
-            mariano+=arrayObjetos[i].getEventos();
+            total+=arrayObjetos[i].getEventos();
         }
         //Mostrar lo que ha hecho Mariano en el día
-        System.out.println(mariano);
+        System.out.println(total);
 	}
-
+	
 }

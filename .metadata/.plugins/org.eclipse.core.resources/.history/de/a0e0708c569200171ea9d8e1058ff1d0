@@ -1,0 +1,21 @@
+package org.foobarspam.pulpo;
+import java.util.ArrayList;
+
+public abstract class Diario {
+
+	public Diario(String[]) {
+        //Creamos un array de objetos de tipo resgistro
+        Registro arrayObjetos[]=new Registro[5];
+ 
+		//Creamos un objeto en la primera posición
+        arrayObjetos[0]=new Registro();
+        //Recorrer el array 
+        for (int i=0; i<arrayObjetos.length; i++){
+            System.out.println(arrayObjetos[i]);
+            mariano+=arrayObjetos[i].getEventos();
+        }
+        //Mostrar lo que ha hecho Mariano en el día
+        System.out.println(mariano);
+	}
+
+}
