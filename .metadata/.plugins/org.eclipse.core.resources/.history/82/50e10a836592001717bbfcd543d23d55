@@ -1,0 +1,9 @@
+package org.foobarspam.pulpo;
+
+public class Phis {
+
+	public Phis() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

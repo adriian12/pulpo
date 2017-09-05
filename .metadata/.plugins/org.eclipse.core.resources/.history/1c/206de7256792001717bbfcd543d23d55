@@ -1,0 +1,16 @@
+package org.foobarspam.test;
+
+import static org.junit.Assert.*;
+
+import java.util.Objects;
+
+import org.junit.Test;
+
+public class PhisTest {
+
+	@Test
+	public void test() {
+		phis = new Objects();
+	}
+
+}

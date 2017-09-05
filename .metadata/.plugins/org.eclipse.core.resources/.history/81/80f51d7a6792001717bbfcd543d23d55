@@ -1,8 +1,10 @@
 package org.foobarspam.test;
 
+import static org.junit.Assert.*;
+
 import org.junit.Test;
 
-public class DiarioTest {
+public class TablaEventoTest {
 
 	@Test
 	public void registroUno() {
@@ -10,13 +12,11 @@ public class DiarioTest {
 		Boolean pulpo = false;
 		System.out.println("Mariano hoy ha hecho: " + diario + " => pulpo: " + pulpo);
 	}
-	@Test
 	public void registroDos() {
 		String diario[]={"trabajar", "helado", "coliflor", "lasaña", "tocar un árbol", "lavarse los dientes"};
 		Boolean pulpo = false;
 		System.out.println("Mariano hoy ha hecho: " + diario + " => pulpo: " + pulpo);
 	}
-	@Test
 	public void registroTres() {
 		String diario[]={"finde", "bicicleta", "descansar", "cacahuetes", "cerveza"};
 		Boolean pulpo = true;

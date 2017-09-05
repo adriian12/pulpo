@@ -12,11 +12,13 @@ public class TablaEventoTest {
 		Boolean pulpo = false;
 		System.out.println("Mariano hoy ha hecho: " + diario + " => pulpo: " + pulpo);
 	}
+	@Test
 	public void registroDos() {
 		String diario[]={"trabajar", "helado", "coliflor", "lasaña", "tocar un árbol", "lavarse los dientes"};
 		Boolean pulpo = false;
 		System.out.println("Mariano hoy ha hecho: " + diario + " => pulpo: " + pulpo);
 	}
+	@Test
 	public void registroTres() {
 		String diario[]={"finde", "bicicleta", "descansar", "cacahuetes", "cerveza"};
 		Boolean pulpo = true;
