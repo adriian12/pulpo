@@ -1,0 +1,9 @@
+package org.foobarspam.pulpo;
+
+public class Diccionario {
+
+	public Diccionario() {
+		Map<Integer, String> map = new HashMap<Integer, String>();
+	}
+
+}

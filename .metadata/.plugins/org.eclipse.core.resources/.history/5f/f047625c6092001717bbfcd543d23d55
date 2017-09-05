@@ -1,0 +1,24 @@
+package org.foobarspam.pulpo;
+
+public class TablaEvento {
+
+	public TablaEvento() {
+		//array con los valores de la tabla del modo [76, 9, 4, 1]
+		int Tabla arrayTabla[]=new Tabla[4];
+		String evento = "";
+	}
+	public void contieneEvento( String evento, String registro){
+		
+	}
+	public String tablaPara(String evento, String diario){
+		if{
+	        for (int i=0; i<arrayTabla.length; i++){
+	            System.out.println(arrayObjetos[i]);
+	            total+=arrayObjetos[i].getEventos();
+	        }
+		}
+	}
+	public void mostrarTabla(){
+		System.out.println(vectorTabla);
+	}
+}

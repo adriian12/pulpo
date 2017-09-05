@@ -1,3 +1,5 @@
 1504626127150	Rename package 'org.foobarspam.Pulpo'
 1504627118720	Convert local variable 'pulpo' to field
 1504627376687	Delete element
+1504633554763	Convert local variable 'map' to field
+1504633622106	Rename type 'Diccionario'

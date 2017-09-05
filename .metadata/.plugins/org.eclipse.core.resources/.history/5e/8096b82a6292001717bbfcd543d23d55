@@ -1,0 +1,13 @@
+package org.foobarspam.pulpo;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Diccionario {
+
+	public Diccionario() {
+	}
+	
+	private Map<Integer, String> map;
+
+}

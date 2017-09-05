@@ -1,0 +1,26 @@
+package org.foobarspam.test;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class TablaEventoTest {
+
+	@Test
+	public void registroUno() {
+		String diario[]={"trabajar", "tocar un árbol", "percebes", "correr", "television"};
+		Boolean pulpo = false;
+		System.out.println("Mariano hoy ha hecho: " + diario + " => pulpo: " + pulpo);
+	}
+	public void registroDos() {
+		String diario[]={"trabajar", "helado", "coliflor", "lasaña", "tocar un árbol", "lavarse los dientes"};
+		Boolean pulpo = false;
+		System.out.println("Mariano hoy ha hecho: " + diario + " => pulpo: " + pulpo);
+	}
+	public void registroTres() {
+		String diario[]={"finde", "bicicleta", "descansar", "cacahuetes", "cerveza"};
+		Boolean pulpo = true;
+		System.out.println("Mariano hoy ha hecho: " + diario + " => pulpo: " + pulpo);
+	}
+
+}

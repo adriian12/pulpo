@@ -1,0 +1,9 @@
+package org.foobarspam.pulpo;
+
+public class TablaEvento {
+
+	public TablaEvento() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

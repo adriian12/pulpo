@@ -7,7 +7,7 @@ public class Correlacion {
 	//Creamos una tabla con los 4 numeros
 	Object tabla[][] = {{76,9,4,1}};
 	Object[][] phi = tabla;
-	
+
 	public double phi(){
 		int tabla[][];
 		tabla = new int[4][4];
@@ -17,5 +17,20 @@ public class Correlacion {
 		  }
 		}
 		return 0;
+	}
+	public Object[][] getTabla() {
+		return tabla;
+	}
+
+	public void setTabla(Object[][] tabla) {
+		this.tabla = tabla;
+	}
+
+	public Object[][] getPhi() {
+		return phi;
+	}
+
+	public void setPhi(Object[][] phi) {
+		this.phi = phi;
 	}
 }

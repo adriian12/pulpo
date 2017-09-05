@@ -1,0 +1,11 @@
+package org.foobarspam.pulpo;
+
+public class TablaEvento {
+
+	public TablaEvento() {
+		//array con los valores de la tabla del modo [76, 9, 4, 1]
+		Tabla arrayTabla[]=new Tabla[4];
+		evento = Tabla;
+	}
+
+}
