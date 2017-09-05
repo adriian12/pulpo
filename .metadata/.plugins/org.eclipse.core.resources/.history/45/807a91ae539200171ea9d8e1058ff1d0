@@ -1,0 +1,6 @@
+package org.foobarspam.pulpo;
+import java.util.ArrayList;
+
+public class Diario {
+	eventos = new ArrayList  <Eventos>();
+}

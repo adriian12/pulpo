@@ -1,0 +1,9 @@
+package org.foobarspam.pulpo;
+
+public abstract class Diario {
+
+	public Diario() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

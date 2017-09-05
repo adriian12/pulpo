@@ -1,0 +1,5 @@
+package org.foobarspam.pulpo;
+
+public class Diario {
+	eventos = new ArrayList  <Eventos>();
+}

@@ -1,0 +1,21 @@
+package org.foobarspam.test;
+
+import org.junit.Test;
+
+public class RegistroTest {
+
+	private Boolean pulpo;
+	@Test
+	public void verdadero() {
+		String eventos[]={"trabajar", "tocar un árbol", "hamburguesa", "correr", "percebes"};
+		pulpo = true;
+		System.out.println(eventos);
+	}
+	@Test
+	public void falso() {
+		String eventos[]={"descansar", "tocar un árbol", "hamburguesa", "correr", "sandia"};
+		Boolean pulpo = false;
+		System.out.println(eventos);
+	}
+
+}

@@ -1,0 +1,13 @@
+package org.foobarspam.pulpo;
+
+
+public abstract class Registro {
+
+	//Inicializamos la array con un máximo de 10 eventos
+	String [] eventos = new String[10];
+	Boolean pulpo = true;
+	//obtener el contenido de un objeto Boolean
+    Boolean mariano = new Boolean("true");
+    boolean b = mariano.booleanValue();
+    System.out.println(b);
+}
