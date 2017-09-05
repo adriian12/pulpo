@@ -1,0 +1,5 @@
+package org.foobarspam.pulpo;
+
+public abstract class Registro {
+
+}

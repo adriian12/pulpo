@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;org.foobarspam.Pulpo&apos; to &apos;org.foobarspam.pulpo&apos;&#x0A;- Original project: &apos;org.foobarspam.examen&apos;&#x0A;- Original element: &apos;org.foobarspam.examen/src/org.foobarspam.Pulpo&apos;&#x0A;- Renamed element: &apos;org.foobarspam.examen/src/org.foobarspam.pulpo&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;org.foobarspam.Pulpo&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;org.foobarspam.Pulpo" name="org.foobarspam.pulpo" qualified="false" references="true" stamp="1504626127150" textual="false" version="1.0"/>
+</session>
